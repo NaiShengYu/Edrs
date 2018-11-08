@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  VOC
+//
+//  Created by 林鹏, Leon on 2017/3/9.
+//  Copyright © 2017年 林鹏, Leon. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+#import "Define.h"
+#import "WebApiPath.h"
+#import "YYKit.h"
+#import "AppDelegate.h"
+#import "SVProgressHUD.h"
+#import "ModelLocator.h"
+#import "Utility.h"
+#endif
+#endif /* PrefixHeader_pch */

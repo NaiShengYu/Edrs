@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Disaster initWithDictionary:]:Disaster.m">
+      </ContextState>
+      <ContextState
+         contextName = "__55-[DisasterDetailViewController intervalGetInputbatches]_block_invoke_2:DisasterDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CustomAccount sharedCustomAccount]">
+            </PersistentString>
+            <PersistentString
+               value = "SD.inputBatches">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DisasterMapViewController getDataLocListData]:DisasterMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mPollutionCenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "__53-[DisasterDetailViewController getDisasterDetailData]_block_invoke:DisasterDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CustomAccount.sharedCustomAccount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DisasterDetailViewController addSubviewsToDetail:]:DisasterDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ib">
+            </PersistentString>
+            <PersistentString
+               value = "imgView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "sc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Disaster loadInputBatches]:Disaster.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[InputBatch initWithDictionary:]:InputBatch.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DataLocMapViewController mapView:viewForAnnotation:]:DataLocMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "idx">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DisasterMapViewController mapView:viewForAnnotation:]:DisasterMapViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mPollutionCenter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DisasterDetailViewController createDisasterDetailView]:DisasterDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CustomAccount.sharedCustomAccount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

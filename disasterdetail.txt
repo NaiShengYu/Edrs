@@ -1,0 +1,104 @@
+﻿[
+    {
+        "id": "ff22e643-a38f-4665-b59a-c3f8cabb4ab0",
+        "type": 4,
+        "time": "2015-08-03T12:03:00",
+        "lng": "00.0000",
+        "lat": "00.0000",
+        "details": [
+            {
+                "id": "73224c67-1ada-434a-bae2-4a54208b45da",
+                "index": 1,
+                "type": 4,
+                "contents": {
+                    "specialtype": 3,
+                    "refid1": "",
+                    "refid2": "",
+                    "remarks": "121.6725,29.9705"
+                }
+            }
+        ]
+    },
+    {
+        "id": "02a25f18-f45e-4d5d-a80c-58752d773a15",
+        "type": 4,
+        "time": "2015-08-03T12:13:00",
+        "lng": "00.0000",
+        "lat": "00.0000",
+        "details": [
+            {
+                "id": "a6f6adac-98f6-4b3a-bc50-014093215102",
+                "index": 1,
+                "type": 4,
+                "contents": {
+                    "specialtype": 4,
+                    "refid1": "9c036dcf-9fc1-41a3-8958-2f4d66b75bd4",
+                    "refid2": "",
+                    "remarks": "苯"
+                }
+            }
+        ]
+    },
+    {
+        "id": "3f8922f3-8df6-48f4-91b0-23c0f59c4691",
+        "type": 4,
+        "time": "2015-08-03T12:23:00",
+        "lng": "00.0000",
+        "lat": "00.0000",
+        "details": [
+            {
+                "id": "d3a50da2-85b9-4a82-8314-315d92e1a0ef",
+                "index": 1,
+                "type": 4,
+                "contents": {
+                    "specialtype": 4,
+                    "refid1": "9f54f1e1-c3b5-4854-835e-013ae59dd713",
+                    "refid2": "",
+                    "remarks": "苊"
+                }
+            }
+        ]
+    },
+    {
+        "id": "dd4cf328-ee7e-7776-20bf-6cef78210894",
+        "type": 2,
+        "time": "2015-08-03T12:43:19.647",
+        "lng": 121.652931,
+        "lat": 29.9993229,
+        "details": [
+            {
+                "id": "9a7b15ff-5811-c9c8-c298-64d23a330fa6",
+                "index": 1,
+                "type": 1,
+                "contents": {
+                    "path": "/Content/images/input1.jpg",
+                    "width": 337,
+                    "height": 220,
+                    "size": 0,
+                    "uploadkey": ""
+                }
+            }
+        ]
+    },
+    {
+        "id": "70de363c-d4d4-c070-d11a-708b9740e2e3",
+        "type": 1,
+        "time": "2015-08-03T12:55:22",
+        "lng": 121.6557,
+        "lat": 30.0008087,
+        "details": [
+            {
+                "id": "8312b3a2-9faa-8ee4-3053-9cf9dcb60bd1",
+                "index": 2,
+                "type": 2,
+                "contents": {
+                    "value": 0.00002,
+                    "unit": "",
+                    "metric": "pH值",
+                    "chemical": "9c036dcf-9fc1-41a3-8958-2f4d66b75bd4",
+                    "equipment": ""
+                }
+            }
+        ]
+    }
+]

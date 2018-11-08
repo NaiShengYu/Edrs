@@ -1,0 +1,207 @@
+
+/* Class = "UILabel"; text = "当前位置"; ObjectID = "1Da-7e-ida"; */
+"1Da-7e-ida.text" = "当前位置";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "1Qo-LE-bCx"; */
+"1Qo-LE-bCx.title" = "确定";
+
+/* Class = "UILabel"; text = "确认化学品"; ObjectID = "1zR-gn-iik"; */
+"1zR-gn-iik.text" = "确认化学品";
+
+/* Class = "UINavigationItem"; title = "突发事故列表"; ObjectID = "5Zb-b4-qvS"; */
+"5Zb-b4-qvS.title" = "突发事故列表";
+
+/* Class = "UILabel"; text = "坐标"; ObjectID = "5bb-Hb-XMy"; */
+"5bb-Hb-XMy.text" = "坐标";
+
+/* Class = "UINavigationItem"; title = "化学品列表"; ObjectID = "60L-38-8JF"; */
+"60L-38-8JF.title" = "化学品列表";
+
+/* Class = "UINavigationItem"; title = "上传数据"; ObjectID = "6Da-tP-OlN"; */
+"6Da-tP-OlN.title" = "上传数据";
+
+/* Class = "UINavigationItem"; title = "上传特殊信息"; ObjectID = "6OL-yW-xjV"; */
+"6OL-yW-xjV.title" = "上传特殊信息";
+
+/* Class = "UINavigationItem"; title = "事故化学品"; ObjectID = "7JN-uI-ReJ"; */
+"7JN-uI-ReJ.title" = "事故化学品";
+
+/* Class = "UIButton"; normalTitle = "清除暂存文件"; ObjectID = "83P-FL-oxH"; */
+"83P-FL-oxH.normalTitle" = "清除暂存文件";
+
+/* Class = "UIButton"; normalTitle = "删除用户数字证书"; ObjectID = "8mC-Zo-Xad"; */
+"8mC-Zo-Xad.normalTitle" = "删除用户数字证书";
+
+/* Class = "UILabel"; text = "版本"; ObjectID = "9O8-2X-Zxp"; */
+"9O8-2X-Zxp.text" = "版本";
+
+/* Class = "UINavigationItem"; title = "查看完整PDF"; ObjectID = "9VS-DF-aXF"; */
+"9VS-DF-aXF.title" = "查看完整PDF";
+
+/* Class = "UINavigationItem"; title = "设备"; ObjectID = "C7X-q9-Ets"; */
+"C7X-q9-Ets.title" = "设备";
+
+/* Class = "UINavigationItem"; title = "附近的污染源"; ObjectID = "CBj-m1-jkF"; */
+"CBj-m1-jkF.title" = "附近的污染源";
+
+/* Class = "UILabel"; text = "接受值班通知"; ObjectID = "Emj-7C-baf"; */
+"Emj-7C-baf.text" = "接受值班通知";
+
+/* Class = "UINavigationItem"; title = "上传信息"; ObjectID = "EnH-Pt-L9s"; */
+"EnH-Pt-L9s.title" = "上传信息";
+
+/* Class = "UINavigationItem"; title = "详情"; ObjectID = "GNS-cg-nsw"; */
+"GNS-cg-nsw.title" = "详情";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "HTB-1g-G5R"; */
+"HTB-1g-G5R.title" = "确定";
+
+/* Class = "UINavigationItem"; title = "新增突发事故"; ObjectID = "Hx2-pW-Cwx"; */
+"Hx2-pW-Cwx.title" = "新增突发事故";
+
+/* Class = "UINavigationItem"; title = "确认污染源位置"; ObjectID = "I2j-ti-WaJ"; */
+"I2j-ti-WaJ.title" = "确认污染源位置";
+
+/* Class = "UINavigationItem"; title = "排班表"; ObjectID = "IWx-EE-coE"; */
+"IWx-EE-coE.title" = "排班表";
+
+/* Class = "UILabel"; text = "请选择事故性质："; ObjectID = "LkZ-U5-Afs"; */
+"LkZ-U5-Afs.text" = "请选择事故性质：";
+
+/* Class = "UINavigationItem"; title = "设置"; ObjectID = "MWr-0h-sUX"; */
+"MWr-0h-sUX.title" = "设置";
+
+/* Class = "UILabel"; text = "当前位置"; ObjectID = "N9M-gU-pKu"; */
+"N9M-gU-pKu.text" = "当前位置";
+
+/* Class = "UINavigationItem"; title = "新增检测站"; ObjectID = "NMS-nz-HJi"; */
+"NMS-nz-HJi.title" = "新增检测站";
+
+/* Class = "UINavigationItem"; title = "设备列表"; ObjectID = "OqT-rm-CAb"; */
+"OqT-rm-CAb.title" = "设备列表";
+
+/* Class = "UINavigationItem"; title = "确认化学品"; ObjectID = "QAx-Ez-mti"; */
+"QAx-Ez-mti.title" = "确认化学品";
+
+/* Class = "UINavigationItem"; title = "监测方案"; ObjectID = "QYM-yC-hhP"; */
+"QYM-yC-hhP.title" = "监测方案";
+
+/* Class = "UINavigationItem"; title = "污染源"; ObjectID = "Rug-Ti-Tx4"; */
+"Rug-Ti-Tx4.title" = "污染源";
+
+/* Class = "UINavigationItem"; title = "化学品"; ObjectID = "T1l-Jz-Xvo"; */
+"T1l-Jz-Xvo.title" = "化学品";
+
+/* Class = "UINavigationItem"; title = "确认风向风速"; ObjectID = "TZZ-Kk-oNo"; */
+"TZZ-Kk-oNo.title" = "确认风向风速";
+
+/* Class = "UINavigationItem"; title = "使用设备"; ObjectID = "UOK-hL-DgO"; */
+"UOK-hL-DgO.title" = "使用设备";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "W4d-tn-pxe"; */
+"W4d-tn-pxe.placeholder" = "密码";
+
+/* Class = "UITextField"; placeholder = "请输入新增事故名称"; ObjectID = "WFP-Ge-9PM"; */
+"WFP-Ge-9PM.placeholder" = "请输入新增事故名称";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "WhW-Uo-9VR"; */
+"WhW-Uo-9VR.title" = "返回";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "XFU-v2-1Kx"; */
+"XFU-v2-1Kx.title" = "确定";
+
+/* Class = "UINavigationItem"; title = "选择检测站"; ObjectID = "YLI-Yi-bcz"; */
+"YLI-Yi-bcz.title" = "选择检测站";
+
+/* Class = "UINavigationItem"; title = "地图"; ObjectID = "YRn-lc-Mvu"; */
+"YRn-lc-Mvu.title" = "地图";
+
+/* Class = "UILabel"; text = "确认污染源位置"; ObjectID = "Yvm-8K-tk3"; */
+"Yvm-8K-tk3.text" = "确认污染源位置";
+
+/* Class = "UINavigationItem"; title = "数据选择"; ObjectID = "Z6t-dY-kZg"; */
+"Z6t-dY-kZg.title" = "数据选择";
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "ZNG-ne-UWl"; */
+"ZNG-ne-UWl.placeholder" = "用户名";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "aiA-oL-UXG"; */
+"aiA-oL-UXG.title" = "确定";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "bF5-K6-dyI"; */
+"bF5-K6-dyI.title" = "确定";
+
+/* Class = "UILabel"; text = "1.0.1"; ObjectID = "blI-y2-XEr"; */
+"blI-y2-XEr.text" = "1.0.1";
+
+/* Class = "UILabel"; text = "提示：45度－东北风，90度－东风，135度－东南风，180度－南风，270度－西风，360度－北风"; ObjectID = "ck8-eU-PDp"; */
+"ck8-eU-PDp.text" = "提示：45度－东北风，90度－东风，135度－东南风，180度－南风，270度－西风，360度－北风";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fkp-Am-d5W"; */
+"fkp-Am-d5W.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "搜索结果"; ObjectID = "fxJ-QR-AOj"; */
+"fxJ-QR-AOj.title" = "搜索结果";
+
+/* Class = "UIButton"; normalTitle = "下载完整监测报告"; ObjectID = "g24-0b-Km2"; */
+"g24-0b-Km2.normalTitle" = "下载完整监测报告";
+
+/* Class = "UITextField"; placeholder = "请输入风速"; ObjectID = "hyh-hA-d8z"; */
+"hyh-hA-d8z.placeholder" = "请输入风速";
+
+/* Class = "UIButton"; normalTitle = "退出"; ObjectID = "iEG-R0-CzV"; */
+"iEG-R0-CzV.normalTitle" = "退出";
+
+/* Class = "UINavigationItem"; title = "首页－检测站名称"; ObjectID = "jfs-1w-KfJ"; */
+"jfs-1w-KfJ.title" = "首页－检测站名称";
+
+/* Class = "UIButton"; normalTitle = "请选择监测站"; ObjectID = "kQC-B8-XnS"; */
+"kQC-B8-XnS.normalTitle" = "请选择监测站";
+
+/* Class = "UINavigationItem"; title = "污染源列表"; ObjectID = "kb0-4X-8Pk"; */
+"kb0-4X-8Pk.title" = "污染源列表";
+
+/* Class = "UILabel"; text = "度"; ObjectID = "kuq-f6-Nve"; */
+"kuq-f6-Nve.text" = "度";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "mtg-l9-L0H"; */
+"mtg-l9-L0H.title" = "返回";
+
+/* Class = "UIButton"; normalTitle = "查看完整监测报告"; ObjectID = "nfd-Nj-6ap"; */
+"nfd-Nj-6ap.normalTitle" = "查看完整监测报告";
+
+/* Class = "UILabel"; text = "m/s"; ObjectID = "nsr-ac-ab4"; */
+"nsr-ac-ab4.text" = "m/s";
+
+/* Class = "UINavigationItem"; title = "突发事故"; ObjectID = "oCM-vF-pSp"; */
+"oCM-vF-pSp.title" = "突发事故";
+
+/* Class = "UITextField"; placeholder = "请输入风向"; ObjectID = "on9-xM-rHE"; */
+"on9-xM-rHE.placeholder" = "请输入风向";
+
+/* Class = "UILabel"; text = "确认事故性质"; ObjectID = "qw6-Nn-7SM"; */
+"qw6-Nn-7SM.text" = "确认事故性质";
+
+/* Class = "UILabel"; text = "请输入检测站的EDRS链接地址"; ObjectID = "rAS-wG-XG4"; */
+"rAS-wG-XG4.text" = "请输入检测站的EDRS链接地址";
+
+/* Class = "UINavigationItem"; title = "测试方法"; ObjectID = "rXG-g4-ihG"; */
+"rXG-g4-ihG.title" = "测试方法";
+
+/* Class = "UILabel"; text = "地址"; ObjectID = "tPo-0d-tXy"; */
+"tPo-0d-tXy.text" = "地址";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "vVT-ct-aZt"; */
+"vVT-ct-aZt.normalTitle" = " ";
+
+/* Class = "UILabel"; text = "确认风向风速"; ObjectID = "wid-LW-MxI"; */
+"wid-LW-MxI.text" = "确认风向风速";
+
+/* Class = "UILabel"; text = "存储密码"; ObjectID = "y9X-O1-OJv"; */
+"y9X-O1-OJv.text" = "存储密码";
+
+/* Class = "UILabel"; text = "接受事故信息通知"; ObjectID = "ymC-Mc-Or7"; */
+"ymC-Mc-Or7.text" = "接受事故信息通知";
+
+/* Class = "UITextField"; placeholder = "edrs.station.gov.cn"; ObjectID = "zni-8H-tHH"; */
+"zni-8H-tHH.placeholder" = "edrs.station.gov.cn";

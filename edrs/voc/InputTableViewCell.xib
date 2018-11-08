@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="InputTableViewCell"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" restorationIdentifier="InputTableViewCell" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="InputTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <frame key="frameInset" width="320" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ebr-w4-uV1">
+                        <constraints>
+                            <constraint firstAttribute="width" constant="100" id="MCq-l6-5fg"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="guI-gI-PW5">
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="请输入相关信息" textAlignment="right" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="j37-g4-YJG">
+                        <nil key="textColor"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits" returnKeyType="next"/>
+                        <connections>
+                            <outlet property="delegate" destination="KGk-i7-Jjw" id="E1M-pG-fXu"/>
+                        </connections>
+                    </textField>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ebr-w4-uV1" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="0J0-sr-x06"/>
+                    <constraint firstAttribute="trailing" secondItem="guI-gI-PW5" secondAttribute="trailing" id="3Ob-F4-V8O"/>
+                    <constraint firstItem="j37-g4-YJG" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="GOe-yl-FfS"/>
+                    <constraint firstAttribute="bottom" secondItem="j37-g4-YJG" secondAttribute="bottom" id="J7x-43-iPY"/>
+                    <constraint firstAttribute="bottom" secondItem="guI-gI-PW5" secondAttribute="bottom" constant="-0.5" id="TRg-wl-wCm"/>
+                    <constraint firstAttribute="trailing" secondItem="j37-g4-YJG" secondAttribute="trailing" constant="10" id="Z54-J1-0Lm"/>
+                    <constraint firstItem="j37-g4-YJG" firstAttribute="leading" secondItem="ebr-w4-uV1" secondAttribute="trailing" id="cHw-g1-71f"/>
+                    <constraint firstItem="ebr-w4-uV1" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="dEb-yn-Thn"/>
+                    <constraint firstItem="guI-gI-PW5" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="97" id="mM6-i1-CwJ"/>
+                    <constraint firstItem="guI-gI-PW5" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="rGV-bu-XtV"/>
+                    <constraint firstAttribute="bottom" secondItem="ebr-w4-uV1" secondAttribute="bottom" id="yZt-gv-8r4"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="subTitleLB" destination="guI-gI-PW5" id="1LZ-6T-x6u"/>
+                <outlet property="textField" destination="j37-g4-YJG" id="3dh-mJ-zJ4"/>
+                <outlet property="titleLB" destination="ebr-w4-uV1" id="Yfg-ih-ks1"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>
