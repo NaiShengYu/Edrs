@@ -29,12 +29,12 @@
         _myTable.delegate =self;
         _myTable.dataSource =self;
         [_myTable registerClass:[UITableViewCell class] forCellReuseIdentifier:@"cell"];
-        if(@available(iOS 11.0, *)){
-            _myTable.contentInsetAdjustmentBehavior =UIScrollViewContentInsetAdjustmentNever;
-            _myTable.estimatedRowHeight = 0;
-            _myTable.estimatedSectionHeaderHeight = 0;
-            _myTable.estimatedSectionFooterHeight = 0;
-        }
+//        if(@available(iOS 11.0, *)){
+//            _myTable.contentInsetAdjustmentBehavior =UIScrollViewContentInsetAdjustmentNever;
+//            _myTable.estimatedRowHeight = 0;
+//            _myTable.estimatedSectionHeaderHeight = 0;
+//            _myTable.estimatedSectionFooterHeight = 0;
+//        }
         WS(blockSelf);
         MJRefreshBackNormalFooter *footer =[MJRefreshBackNormalFooter footerWithRefreshingBlock:^{
             [blockSelf AddMoreMassage];

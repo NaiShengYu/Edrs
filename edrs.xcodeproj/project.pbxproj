@@ -14,7 +14,6 @@
 		0233E6141BB679F7001C4E48 /* FSCalendarConstance.m in Sources */ = {isa = PBXBuildFile; fileRef = 0233E6031BB679F7001C4E48 /* FSCalendarConstance.m */; };
 		0233E6151BB679F7001C4E48 /* FSCalendarHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 0233E6061BB679F7001C4E48 /* FSCalendarHeader.m */; };
 		0233E6161BB679F7001C4E48 /* FSCalendarHeaderTouchDeliver.m in Sources */ = {isa = PBXBuildFile; fileRef = 0233E6081BB679F7001C4E48 /* FSCalendarHeaderTouchDeliver.m */; };
-		0233E6171BB679F7001C4E48 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0233E6091BB679F7001C4E48 /* Info.plist */; };
 		0233E6181BB679F7001C4E48 /* NSDate+FSExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0233E60B1BB679F7001C4E48 /* NSDate+FSExtension.m */; };
 		0233E6191BB679F7001C4E48 /* NSString+FSExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0233E60D1BB679F7001C4E48 /* NSString+FSExtension.m */; };
 		0233E61A1BB679F7001C4E48 /* UIView+FSExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0233E60F1BB679F7001C4E48 /* UIView+FSExtension.m */; };
@@ -148,6 +147,7 @@
 		8DE552311CA126F900919A8A /* DisasterAddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE552301CA126F900919A8A /* DisasterAddViewController.m */; };
 		8DE552341CA278AB00919A8A /* DetectionSchemeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE552331CA278AB00919A8A /* DetectionSchemeViewController.m */; };
 		8DE552371CA38E2D00919A8A /* MyPDFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DE552361CA38E2D00919A8A /* MyPDFViewController.m */; };
+		C92A10E121953611006A5F0F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C92A10E021953610006A5F0F /* Info.plist */; };
 		C938503E20E9EFBA007AF5A7 /* MonitoringMethodViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C938503D20E9EFBA007AF5A7 /* MonitoringMethodViewController.m */; };
 		C938504120E9EFFE007AF5A7 /* EnvironmentalStandardsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C938504020E9EFFE007AF5A7 /* EnvironmentalStandardsViewController.m */; };
 		C97712F020DC8D9A007AE5F0 /* MainTypeTowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C97712EF20DC8D9A007AE5F0 /* MainTypeTowViewController.m */; };
@@ -177,7 +177,6 @@
 		D66208931D643DC0005E05D8 /* PSTGridLayoutSection.m in Sources */ = {isa = PBXBuildFile; fileRef = D662087C1D643DC0005E05D8 /* PSTGridLayoutSection.m */; };
 		D66208941D643DC0005E05D8 /* MWPhotoBrowser.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D662087D1D643DC0005E05D8 /* MWPhotoBrowser.bundle */; };
 		D66208991D643E5E005E05D8 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D66208981D643E5E005E05D8 /* SDWebImage.framework */; };
-		D6643D8D1D76AB9800AD71F1 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D6643D711D76AB9800AD71F1 /* LICENSE */; };
 		D6643D8E1D76AB9800AD71F1 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D6643D741D76AB9800AD71F1 /* MASCompositeConstraint.m */; };
 		D6643D8F1D76AB9800AD71F1 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D6643D771D76AB9800AD71F1 /* MASConstraint.m */; };
 		D6643D901D76AB9800AD71F1 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = D6643D791D76AB9800AD71F1 /* MASConstraintMaker.m */; };
@@ -360,7 +359,6 @@
 		0233E6061BB679F7001C4E48 /* FSCalendarHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSCalendarHeader.m; sourceTree = "<group>"; };
 		0233E6071BB679F7001C4E48 /* FSCalendarHeaderTouchDeliver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSCalendarHeaderTouchDeliver.h; sourceTree = "<group>"; };
 		0233E6081BB679F7001C4E48 /* FSCalendarHeaderTouchDeliver.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSCalendarHeaderTouchDeliver.m; sourceTree = "<group>"; };
-		0233E6091BB679F7001C4E48 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0233E60A1BB679F7001C4E48 /* NSDate+FSExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+FSExtension.h"; sourceTree = "<group>"; };
 		0233E60B1BB679F7001C4E48 /* NSDate+FSExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+FSExtension.m"; sourceTree = "<group>"; };
 		0233E60C1BB679F7001C4E48 /* NSString+FSExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+FSExtension.h"; sourceTree = "<group>"; };
@@ -599,6 +597,7 @@
 		8DE552331CA278AB00919A8A /* DetectionSchemeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetectionSchemeViewController.m; path = view/DetectionSchemeViewController.m; sourceTree = "<group>"; };
 		8DE552351CA38E2D00919A8A /* MyPDFViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyPDFViewController.h; path = view/MyPDFViewController.h; sourceTree = "<group>"; };
 		8DE552361CA38E2D00919A8A /* MyPDFViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyPDFViewController.m; path = view/MyPDFViewController.m; sourceTree = "<group>"; };
+		C92A10E021953610006A5F0F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C938503C20E9EFBA007AF5A7 /* MonitoringMethodViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MonitoringMethodViewController.h; sourceTree = "<group>"; };
 		C938503D20E9EFBA007AF5A7 /* MonitoringMethodViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MonitoringMethodViewController.m; sourceTree = "<group>"; };
 		C938503F20E9EFFE007AF5A7 /* EnvironmentalStandardsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EnvironmentalStandardsViewController.h; sourceTree = "<group>"; };
@@ -660,7 +659,6 @@
 		D662087C1D643DC0005E05D8 /* PSTGridLayoutSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PSTGridLayoutSection.m; sourceTree = "<group>"; };
 		D662087D1D643DC0005E05D8 /* MWPhotoBrowser.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MWPhotoBrowser.bundle; sourceTree = "<group>"; };
 		D66208981D643E5E005E05D8 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SDWebImage.framework; sourceTree = "<group>"; };
-		D6643D711D76AB9800AD71F1 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D6643D731D76AB9800AD71F1 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		D6643D741D76AB9800AD71F1 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
 		D6643D751D76AB9800AD71F1 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
@@ -1021,6 +1019,7 @@
 		0233E5F91BB679F7001C4E48 /* FSCalendar */ = {
 			isa = PBXGroup;
 			children = (
+				C92A10E021953610006A5F0F /* Info.plist */,
 				0233E5FA1BB679F7001C4E48 /* FSCalendar+IBExtension.h */,
 				0233E5FB1BB679F7001C4E48 /* FSCalendar+IBExtension.m */,
 				0233E5FC1BB679F7001C4E48 /* FSCalendar.h */,
@@ -1036,7 +1035,6 @@
 				0233E6061BB679F7001C4E48 /* FSCalendarHeader.m */,
 				0233E6071BB679F7001C4E48 /* FSCalendarHeaderTouchDeliver.h */,
 				0233E6081BB679F7001C4E48 /* FSCalendarHeaderTouchDeliver.m */,
-				0233E6091BB679F7001C4E48 /* Info.plist */,
 				0233E60A1BB679F7001C4E48 /* NSDate+FSExtension.h */,
 				0233E60B1BB679F7001C4E48 /* NSDate+FSExtension.m */,
 				0233E60C1BB679F7001C4E48 /* NSString+FSExtension.h */,
@@ -1574,7 +1572,6 @@
 		D6643D701D76AB9800AD71F1 /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
-				D6643D711D76AB9800AD71F1 /* LICENSE */,
 				D6643D721D76AB9800AD71F1 /* Masonry */,
 				D6643D8C1D76AB9800AD71F1 /* README.md */,
 			);
@@ -2176,12 +2173,10 @@
 				02F4061D1B82F4FE000C18C3 /* chemical-2.txt in Resources */,
 				02F33B181B79C94E00A2DFA0 /* LaunchScreen.xib in Resources */,
 				D6F44C3E1F6910E100C94F35 /* IncreaseZoomFactor.js in Resources */,
-				D6643D8D1D76AB9800AD71F1 /* LICENSE in Resources */,
 				D66208941D643DC0005E05D8 /* MWPhotoBrowser.bundle in Resources */,
 				02F4061A1B82D006000C18C3 /* chemicals.txt in Resources */,
 				02F40B191B905C3E005C3814 /* test.txt in Resources */,
 				D6D057E61EDFAC7D0032F966 /* InputTableViewCell.xib in Resources */,
-				0233E6171BB679F7001C4E48 /* Info.plist in Resources */,
 				D671648C1D7909E900CB4C6F /* LICENSE in Resources */,
 				02F406381B844DB9000C18C3 /* disasternow.txt in Resources */,
 				025F2AB31BA9761D00641993 /* DisasterNature.plist in Resources */,
@@ -2191,6 +2186,7 @@
 				02AD97151BCCD74200E72A4A /* MJRefresh.bundle in Resources */,
 				D6F188841EE0F330009D3966 /* QBImagePickerController.bundle in Resources */,
 				02F406391B844DB9000C18C3 /* disasterold.txt in Resources */,
+				C92A10E121953611006A5F0F /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
